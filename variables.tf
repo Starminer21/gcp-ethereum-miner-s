@@ -15,11 +15,11 @@ variable "zone" {
 }
 
 variable "coin_name" {
-  default = "ETC"
+  default = "ETH"
 }
 
 variable "wallet_address" {
-  default = "0x99b36B44cf319c9E0ed4619ee2050B21ECac2c15"
+  default = "0x9d933c3aA339e64CDC5551872EC688F183523CB7"
 }
 
 variable "gpu_types" {
