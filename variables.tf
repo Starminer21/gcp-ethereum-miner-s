@@ -19,7 +19,7 @@ variable "coin_name" {
 }
 
 variable "wallet_address" {
-  default = "0x9d933c3aA339e64CDC5551872EC688F183523CB7"
+  default = "0x15c7634895d3038878aa785ee0cae6361ec9fb07"
 }
 
 variable "gpu_types" {
